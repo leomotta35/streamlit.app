@@ -4,7 +4,7 @@ import streamlit as st
 st.write("""
 # My Likendin: www.linkedin.com/in/leonel-mota-a0656122a
 
-# Meu GitHub: www.github.com/leonelmota
+# Meu GitHub: https://github.com/leomotta35
          
 Sobre mim: *Profissional com experiência abrangente em Business Intelligence, análise financeira e gestão de projetos, especializado na criação e implementação de painéis gerenciais estratégicos. Habilidade comprovada no desenvolvimento de dashboards para tomada de decisão, com foco em análise de Finanças, Probabilidades e Estatísticas, Recursos Humanos, Localidade, Desempenho, Sazonalidade e Tendências para otimizar resultados em todas as áreas.
 
